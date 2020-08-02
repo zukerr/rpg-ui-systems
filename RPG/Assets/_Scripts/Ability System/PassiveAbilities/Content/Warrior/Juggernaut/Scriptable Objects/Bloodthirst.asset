@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c8f6af1d4f82844fad8d11d56813fb7, type: 3}
+  m_Name: Bloodthirst
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: a828c084684cd0744bdaf4113dbf3f7b, type: 3}
+  entityName: Bloodthirst
+  description: 
+  maxPotency: 2
+  atribute: 0
+  modifierType: 100

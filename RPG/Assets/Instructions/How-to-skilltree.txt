@@ -1,0 +1,2 @@
+-distance between nodes is 83
+-top right vector: [71.88, 41.5]

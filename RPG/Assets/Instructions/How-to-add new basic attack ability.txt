@@ -1,0 +1,18 @@
+0. Make an icon for the ability
+1. Create a new script in "_Scripts/Ability System/BasicAttacks" called <name>BA
+2. It has to inherit from BasicAttackAbility and override necessary fuctions
+3. Set type field to coresponding damage type of the new ability
+4. Make damage calculations in CalculateDamage() function, which sets up damageValue field
+5. Add CreateAssetMenu line for creating scriptable objects
+6. Make scriptable object via Create -> Ability -> BasicAttackAbility -> <name>
+7. Setup icon and description in the scriptable object
+8. Make a new Node from prefab at "Prefabs/Node" and connect it as a child of an existing node in "Children" GO
+in Hierarchy: UI/Basic Attack Skill Tree/Root/Children/...
+9. Setup position of the new node using "Instructions/How-to-skilltree.txt"
+10. Setup color (color of image of fill GO) of the new ability according to its damage type
+11. Setup name of the new ability
+11.1 Setup name of the node to the same string
+12. Setup traits of the new ability
+13. Setup ability field - assign it to the scriptable object you created.
+14. Setup BASkillTreeNode script attached to the node - setup adjacent nodes in adj list, and choose correct
+basic attack ability enum from the list in Ability field

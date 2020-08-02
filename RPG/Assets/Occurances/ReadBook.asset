@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f554f9ab742066844aca3eda5d69e245, type: 3}
+  m_Name: ReadBook
+  m_EditorClassIdentifier: 
+  card: {fileID: 11400000, guid: 4f7cff01c46756e48b9f9c1272ea0599, type: 2}
+  choices:
+  - {fileID: 11400000, guid: 03b79350e8d6aef4da2bd7097309afaf, type: 2}
+  - {fileID: 11400000, guid: e6a41dcafdf8a18439c555a67976a8b9, type: 2}

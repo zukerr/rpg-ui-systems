@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 950e9040cb98a8c4b81ddb3dc0bd5da9, type: 3}
+  m_Name: HellBash
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: b366bcf5069a5f64aa0d752d6467e8b0, type: 3}
+  entityName: Hell Bash
+  description: 

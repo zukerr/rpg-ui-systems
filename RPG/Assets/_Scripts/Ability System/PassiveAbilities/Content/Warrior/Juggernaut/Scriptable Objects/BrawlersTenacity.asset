@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29e2ff9683fe5384e92336cdc8c23a11, type: 3}
+  m_Name: BrawlersTenacity
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: cba7435cab08b074da2ecc856d2bec31, type: 3}
+  entityName: Brawler's Tenacity
+  description: 
+  maxPotency: 3
+  atribute: 3
+  modifierType: 100
